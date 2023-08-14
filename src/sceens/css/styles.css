@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+img {
+    min-width: 50px;
+}
+
+.bear-color {
+width: 100%;
+}
+
+.main-container {
+    max-width: 100%;
+    min-width: 100%;
+    max-height: 100%;
+    min-width: 19cm;
+    background-image: url("https://img.freepik.com/vecteurs-libre/fond-cercles-dans-tons-sombres_60389-166.jpg?w=996&t=st=1692009209~exp=1692009809~hmac=408c8ff2fc2e1b3c1b1ac33d0bfca6a793321a3d252d01421a75692f007703f1");
+    background-size: cover;
+    padding: 1rem;
+}
+
+footer {
+    margin-top: 110px;
+    background-color: rgb(249, 249, 249);
+    border-top: 4px solid black;
+    padding: 25px 0 10px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+footer h3 {
+   color: black;
+   font-size: 1em;
+   margin-bottom: 15px;
+}
+
+footer ul li {
+    color: #757471;
+ }
+
+ @media sceen and (min-width: 100%) {
+      .bloc {
+        width:100%;
+      }
+
+      .bloc {
+        font-size: 0.9em;
+      }
+
+    }
+
+    @media sceen and (min-width: 10%) {
+        .main-container {
+          color:  rgb(249, 249, 249);
+          font-size: 100%;
+        }
+  
+      }
+
+    footer {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+ 
+
+ footer > div {
+    margin-bottom: 25px;
+ }
+
+ p.copyright {
+    background-color: aliceblue;
+    text-align: center;
+ }
+

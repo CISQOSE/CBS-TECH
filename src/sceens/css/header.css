@@ -1,0 +1,30 @@
+header {
+    list-style: none;
+    padding: 20px 0 20px 0;
+    text-align: center;
+    border-bottom: solid 1px black;
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+header img {
+    display: inline-block;
+}
+
+header nav {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+@media sceen and (max-width: 100%) {
+    .bloc {
+      width:100%;
+    }
+
+    .bloc {
+      font-size: 0.9em;
+    }
+
+  }
