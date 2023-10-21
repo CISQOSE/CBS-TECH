@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CBS-TECH/static/css/main.bde32956.css",
+    "main.js": "/CBS-TECH/static/js/main.0c0cf292.js",
+    "static/js/787.28cb0dcd.chunk.js": "/CBS-TECH/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/CBS-TECH/index.html",
+    "main.bde32956.css.map": "/CBS-TECH/static/css/main.bde32956.css.map",
+    "main.0c0cf292.js.map": "/CBS-TECH/static/js/main.0c0cf292.js.map",
+    "787.28cb0dcd.chunk.js.map": "/CBS-TECH/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bde32956.css",
+    "static/js/main.0c0cf292.js"
+  ]
+}
