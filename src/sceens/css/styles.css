@@ -18,9 +18,8 @@ width: 100%;
     max-width: 100%;
     min-width: 100%;
     max-height: 100%;
-    min-width: 19cm;
-    background-image: url("https://img.freepik.com/vecteurs-libre/fond-cercles-dans-tons-sombres_60389-166.jpg?w=996&t=st=1692009209~exp=1692009809~hmac=408c8ff2fc2e1b3c1b1ac33d0bfca6a793321a3d252d01421a75692f007703f1");
-    background-size: cover;
+    min-width: 100%;
+    background-color: rgb(115, 110, 71);
     padding: 1rem;
 }
 
@@ -79,4 +78,5 @@ footer ul li {
     background-color: aliceblue;
     text-align: center;
  }
+
 

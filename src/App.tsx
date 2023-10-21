@@ -41,7 +41,7 @@ function App() {
       </div>  
 
     
-      <p className='copyrighr align-center App text-[black]'>© 2023 CBS TECHNOLOGIE. Tous droits réservés | Par SHANKS </p>
+      <p className='copyrighr align-center App text-[white]'>© 2023 CBS TECHNOLOGIE. Tous droits réservés | Par Babacar Mbemba Sylla CISSE </p>
     
     
 
